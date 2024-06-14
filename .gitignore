@@ -25,6 +25,9 @@
 *.a
 *.lib
 
+#apks
+*.apk
+
 # Executables
 *.exe
 *.out

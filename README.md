@@ -2,7 +2,7 @@
 Un fantastico mundo magico donde puedes probar dos tipos de magia con las dos varitas que te encuentras por el mundo
 
 * Gameplay: 
-* APK: https://drive.google.com/file/d/1RTlFRiyRFjDWl3iK0MCIcSiFiXlRbYIC/view?usp=sharing
+* APK: https://drive.google.com/file/d/17gdNWQuvuSCqZvUmMzNjsQyurr508wna/view?usp=sharing
 
 * Instrucciones
     - Disfrutar interactuando con el mapa descubriendo las diferentes varitas que te encuentres

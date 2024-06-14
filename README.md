@@ -1,13 +1,14 @@
 # VR_ProjectMagicWorld
 Un fantastico mundo magico donde puedes probar dos tipos de magia con las dos varitas que te encuentras por el mundo
 
-* Gameplay: 
+* Gameplay: https://youtu.be/QpIQeWhYN5k
 * APK: https://drive.google.com/file/d/17gdNWQuvuSCqZvUmMzNjsQyurr508wna/view?usp=sharing
 
 * Instrucciones
     - Disfrutar interactuando con el mapa descubriendo las diferentes varitas que te encuentres
     - Varita Ribbon, se coge con el Grap Buttom (La de madera)
     - Varita Shot, se coge con el Grap Buttom y se dispara con el Trigger (La de color blanco)
+    - Por tema de tiempo, se hizo un sistema de marcaje para detectar las cajas señaladas
     - Existen dos puzzles que te harán interactuar con las varitas necesarias para ello
     - No existen reglas ni limites, solo disfruta de lanzar cajas por los aires y anotar en las dianas
 
@@ -16,7 +17,7 @@ Un fantastico mundo magico donde puedes probar dos tipos de magia con las dos va
     donde algunas dianas te sumaran puntos en tu marcador, mientras que otras te restaran, asi que cuidado.
 
 * Licencias:
-    Assets usados:
+        Assets usados:
         - Infinity Blade: Effects
             CONTENT TERMS FAQ
             Q: Can I use the Infinity Blade Collection content in other engines?
